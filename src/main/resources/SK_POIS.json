@@ -1,0 +1,3755 @@
+{
+    "status": {
+        "code": "00",
+        "message": "success",
+        "totalCount": 949,
+        "offset": 0,
+        "limit": 1000
+    },
+    "contents": [
+        {
+            "areaId": "9147",
+            "areaName": "홍익대학교"
+        },
+        {
+            "areaId": "9195",
+            "areaName": "명동"
+        },
+        {
+            "areaId": "9144",
+            "areaName": "홍대입구역"
+        },
+        {
+            "areaId": "9350",
+            "areaName": "고속터미널역"
+        },
+        {
+            "areaId": "9277",
+            "areaName": "강남역 북부 11번출구"
+        },
+        {
+            "areaId": "9462",
+            "areaName": "서면역 남부 4번출구"
+        },
+        {
+            "areaId": "9246",
+            "areaName": "타임스퀘어"
+        },
+        {
+            "areaId": "9321",
+            "areaName": "코엑스"
+        },
+        {
+            "areaId": "9154",
+            "areaName": "용산역"
+        },
+        {
+            "areaId": "9177",
+            "areaName": "종로3가역"
+        },
+        {
+            "areaId": "9273",
+            "areaName": "잠실역 롯데월드"
+        },
+        {
+            "areaId": "10147",
+            "areaName": "부평역"
+        },
+        {
+            "areaId": "9461",
+            "areaName": "서면역 남부 7번출구"
+        },
+        {
+            "areaId": "9624",
+            "areaName": "반월당사거리"
+        },
+        {
+            "areaId": "9349",
+            "areaName": "강남역북부 10번출구"
+        },
+        {
+            "areaId": "9170",
+            "areaName": "동대문시장"
+        },
+        {
+            "areaId": "9459",
+            "areaName": "부전역"
+        },
+        {
+            "areaId": "9244",
+            "areaName": "영등포역"
+        },
+        {
+            "areaId": "9272",
+            "areaName": "잠실역"
+        },
+        {
+            "areaId": "9338",
+            "areaName": "신림역"
+        },
+        {
+            "areaId": "9322",
+            "areaName": "포스코사거리"
+        },
+        {
+            "areaId": "9465",
+            "areaName": "서면역 북부 11번출구"
+        },
+        {
+            "areaId": "9223",
+            "areaName": "신도림역"
+        },
+        {
+            "areaId": "9625",
+            "areaName": "반월당역"
+        },
+        {
+            "areaId": "9567",
+            "areaName": "창원 중앙동"
+        },
+        {
+            "areaId": "10027",
+            "areaName": "상동역"
+        },
+        {
+            "areaId": "9209",
+            "areaName": "충무로역 북부"
+        },
+        {
+            "areaId": "9378",
+            "areaName": "노원역"
+        },
+        {
+            "areaId": "9891",
+            "areaName": "수원역"
+        },
+        {
+            "areaId": "9493",
+            "areaName": "센텀시티 북부"
+        },
+        {
+            "areaId": "9302",
+            "areaName": "압구정 로데오거리"
+        },
+        {
+            "areaId": "9890",
+            "areaName": "수원시청"
+        },
+        {
+            "areaId": "9499",
+            "areaName": "해운대역"
+        },
+        {
+            "areaId": "9174",
+            "areaName": "인사동"
+        },
+        {
+            "areaId": "10073",
+            "areaName": "범계역"
+        },
+        {
+            "areaId": "10033",
+            "areaName": "신중동역"
+        },
+        {
+            "areaId": "9336",
+            "areaName": "서울대입구역"
+        },
+        {
+            "areaId": "9388",
+            "areaName": "청량리역"
+        },
+        {
+            "areaId": "9629",
+            "areaName": "동대구역"
+        },
+        {
+            "areaId": "9255",
+            "areaName": "건대입구역"
+        },
+        {
+            "areaId": "9522",
+            "areaName": "남포역"
+        },
+        {
+            "areaId": "9303",
+            "areaName": "압구정역"
+        },
+        {
+            "areaId": "9374",
+            "areaName": "미아사거리역"
+        },
+        {
+            "areaId": "9334",
+            "areaName": "사당역"
+        },
+        {
+            "areaId": "9194",
+            "areaName": "롯데백화점 본점"
+        },
+        {
+            "areaId": "9171",
+            "areaName": "동대문역"
+        },
+        {
+            "areaId": "9524",
+            "areaName": "자갈치역 남부"
+        },
+        {
+            "areaId": "9278",
+            "areaName": "강남역남부 8번출구"
+        },
+        {
+            "areaId": "9984",
+            "areaName": "판교역"
+        },
+        {
+            "areaId": "9169",
+            "areaName": "광화문역"
+        },
+        {
+            "areaId": "9307",
+            "areaName": "역삼역남부 3번출구"
+        },
+        {
+            "areaId": "9150",
+            "areaName": "신촌역 북부"
+        },
+        {
+            "areaId": "9529",
+            "areaName": "울산 삼산동"
+        },
+        {
+            "areaId": "9201",
+            "areaName": "신당역"
+        },
+        {
+            "areaId": "9523",
+            "areaName": "자갈치역 북부"
+        },
+        {
+            "areaId": "9141",
+            "areaName": "마포역"
+        },
+        {
+            "areaId": "9623",
+            "areaName": "중앙로역 북부 3번출구"
+        },
+        {
+            "areaId": "9253",
+            "areaName": "천호역 북부"
+        },
+        {
+            "areaId": "9347",
+            "areaName": "총신대입구역"
+        },
+        {
+            "areaId": "9280",
+            "areaName": "논현역남부 3번출구"
+        },
+        {
+            "areaId": "9288",
+            "areaName": "삼성역 남부 4번출구"
+        },
+        {
+            "areaId": "9241",
+            "areaName": "여의도역 북부"
+        },
+        {
+            "areaId": "9457",
+            "areaName": "온천장역"
+        },
+        {
+            "areaId": "9492",
+            "areaName": "센텀시티 남부"
+        },
+        {
+            "areaId": "9267",
+            "areaName": "가락시장"
+        },
+        {
+            "areaId": "9291",
+            "areaName": "선릉역"
+        },
+        {
+            "areaId": "10008",
+            "areaName": "젊음의거리"
+        },
+        {
+            "areaId": "9184",
+            "areaName": "종로구청"
+        },
+        {
+            "areaId": "9375",
+            "areaName": "수유역"
+        },
+        {
+            "areaId": "9294",
+            "areaName": "선릉역 남부 1번출구"
+        },
+        {
+            "areaId": "9714",
+            "areaName": "광천동"
+        },
+        {
+            "areaId": "9486",
+            "areaName": "광안리"
+        },
+        {
+            "areaId": "9958",
+            "areaName": "서현역"
+        },
+        {
+            "areaId": "9447",
+            "areaName": "사상역 북부 5번출구"
+        },
+        {
+            "areaId": "9472",
+            "areaName": "연산동역"
+        },
+        {
+            "areaId": "9155",
+            "areaName": "용산 전자상가"
+        },
+        {
+            "areaId": "9191",
+            "areaName": "남대문시장"
+        },
+        {
+            "areaId": "9279",
+            "areaName": "논현역남부 1번출구"
+        },
+        {
+            "areaId": "9271",
+            "areaName": "신천역"
+        },
+        {
+            "areaId": "10168",
+            "areaName": "둔산2동"
+        },
+        {
+            "areaId": "9626",
+            "areaName": "중앙로역 북부 4번출구"
+        },
+        {
+            "areaId": "9215",
+            "areaName": "가산디지털단지역"
+        },
+        {
+            "areaId": "9176",
+            "areaName": "종각역 젊음의거리"
+        },
+        {
+            "areaId": "9143",
+            "areaName": "신촌역 남부"
+        },
+        {
+            "areaId": "9960",
+            "areaName": "야탑역"
+        },
+        {
+            "areaId": "9231",
+            "areaName": "목동 현대백화점"
+        },
+        {
+            "areaId": "9196",
+            "areaName": "명동역"
+        },
+        {
+            "areaId": "9504",
+            "areaName": "부산역"
+        },
+        {
+            "areaId": "9205",
+            "areaName": "을지로3가역"
+        },
+        {
+            "areaId": "10082",
+            "areaName": "안양 남부시장"
+        },
+        {
+            "areaId": "10048",
+            "areaName": "정발산역"
+        },
+        {
+            "areaId": "9298",
+            "areaName": "신사동가로수길"
+        },
+        {
+            "areaId": "9368",
+            "areaName": "역삼역북부 4번출구"
+        },
+        {
+            "areaId": "9301",
+            "areaName": "청담동패션거리"
+        },
+        {
+            "areaId": "9959",
+            "areaName": "수내역"
+        },
+        {
+            "areaId": "9138",
+            "areaName": "공덕역"
+        },
+        {
+            "areaId": "9500",
+            "areaName": "범일역"
+        },
+        {
+            "areaId": "9348",
+            "areaName": "강남역남부 7번출구"
+        },
+        {
+            "areaId": "9383",
+            "areaName": "경동시장"
+        },
+        {
+            "areaId": "9188",
+            "areaName": "혜화역 대학로"
+        },
+        {
+            "areaId": "9541",
+            "areaName": "울산시외버스터미널"
+        },
+        {
+            "areaId": "9208",
+            "areaName": "충무로역 남부"
+        },
+        {
+            "areaId": "9444",
+            "areaName": "사상역 북부 2번출구"
+        },
+        {
+            "areaId": "10142",
+            "areaName": "작전서운동"
+        },
+        {
+            "areaId": "10108",
+            "areaName": "주안역"
+        },
+        {
+            "areaId": "9243",
+            "areaName": "영등포시장역"
+        },
+        {
+            "areaId": "10248",
+            "areaName": "성안길육거리"
+        },
+        {
+            "areaId": "9344",
+            "areaName": "보라매공원"
+        },
+        {
+            "areaId": "10070",
+            "areaName": "산본역"
+        },
+        {
+            "areaId": "9332",
+            "areaName": "한티역"
+        },
+        {
+            "areaId": "9452",
+            "areaName": "동래역"
+        },
+        {
+            "areaId": "10094",
+            "areaName": "도리섬상점가상권"
+        },
+        {
+            "areaId": "9645",
+            "areaName": "범어역"
+        },
+        {
+            "areaId": "9299",
+            "areaName": "신사역"
+        },
+        {
+            "areaId": "9497",
+            "areaName": "장산역 북부"
+        },
+        {
+            "areaId": "9312",
+            "areaName": "은마아파트입구사거리"
+        },
+        {
+            "areaId": "9533",
+            "areaName": "울산 남구청"
+        },
+        {
+            "areaId": "9889",
+            "areaName": "수원시청역 북부"
+        },
+        {
+            "areaId": "10282",
+            "areaName": "구래역"
+        },
+        {
+            "areaId": "9391",
+            "areaName": "성신여대입구역"
+        },
+        {
+            "areaId": "9199",
+            "areaName": "서울 시청역"
+        },
+        {
+            "areaId": "9909",
+            "areaName": "용인사거리"
+        },
+        {
+            "areaId": "9445",
+            "areaName": "사상역 남부 1번출구"
+        },
+        {
+            "areaId": "9310",
+            "areaName": "역삼역북부 7번출구"
+        },
+        {
+            "areaId": "9163",
+            "areaName": "연신내역"
+        },
+        {
+            "areaId": "10182",
+            "areaName": "온천1동"
+        },
+        {
+            "areaId": "9792",
+            "areaName": "왕조1동"
+        },
+        {
+            "areaId": "9210",
+            "areaName": "강서구청"
+        },
+        {
+            "areaId": "9198",
+            "areaName": "서울시청"
+        },
+        {
+            "areaId": "9595",
+            "areaName": "물급읍"
+        },
+        {
+            "areaId": "10084",
+            "areaName": "안양3동"
+        },
+        {
+            "areaId": "9724",
+            "areaName": "첨단2동"
+        },
+        {
+            "areaId": "9450",
+            "areaName": "부산대역"
+        },
+        {
+            "areaId": "9905",
+            "areaName": "수지구청"
+        },
+        {
+            "areaId": "9875",
+            "areaName": "영통역"
+        },
+        {
+            "areaId": "9879",
+            "areaName": "광교"
+        },
+        {
+            "areaId": "9481",
+            "areaName": "경성대부경대역"
+        },
+        {
+            "areaId": "9978",
+            "areaName": "이천종합터미널"
+        },
+        {
+            "areaId": "10043",
+            "areaName": "마두역"
+        },
+        {
+            "areaId": "9292",
+            "areaName": "선릉역 북부 5번출구"
+        },
+        {
+            "areaId": "10025",
+            "areaName": "부천시청"
+        },
+        {
+            "areaId": "9367",
+            "areaName": "양재역"
+        },
+        {
+            "areaId": "9939",
+            "areaName": "광명사거리역"
+        },
+        {
+            "areaId": "9193",
+            "areaName": "동대문역사문화공원역"
+        },
+        {
+            "areaId": "9903",
+            "areaName": "쥬네브썬월드"
+        },
+        {
+            "areaId": "9635",
+            "areaName": "대구 동천동"
+        },
+        {
+            "areaId": "9252",
+            "areaName": "천호역 남부"
+        },
+        {
+            "areaId": "10118",
+            "areaName": "인천소래포구"
+        },
+        {
+            "areaId": "10210",
+            "areaName": "신부동먹자골목"
+        },
+        {
+            "areaId": "9240",
+            "areaName": "여의도역 남부"
+        },
+        {
+            "areaId": "9614",
+            "areaName": "성서산업단지역"
+        },
+        {
+            "areaId": "9181",
+            "areaName": "종로5가역 북부 1번출구"
+        },
+        {
+            "areaId": "9182",
+            "areaName": "종로5가역 북부 3번출구"
+        },
+        {
+            "areaId": "10097",
+            "areaName": "안산 중앙역"
+        },
+        {
+            "areaId": "9692",
+            "areaName": "중앙상가"
+        },
+        {
+            "areaId": "9988",
+            "areaName": "돌다리사거리"
+        },
+        {
+            "areaId": "10102",
+            "areaName": "구월동로데오거리"
+        },
+        {
+            "areaId": "9919",
+            "areaName": "평택오거리"
+        },
+        {
+            "areaId": "9515",
+            "areaName": "하단역"
+        },
+        {
+            "areaId": "9270",
+            "areaName": "방이동 먹자골목"
+        },
+        {
+            "areaId": "9287",
+            "areaName": "뱅뱅사거리"
+        },
+        {
+            "areaId": "9804",
+            "areaName": "연동"
+        },
+        {
+            "areaId": "10077",
+            "areaName": "평촌역"
+        },
+        {
+            "areaId": "10190",
+            "areaName": "대흥동"
+        },
+        {
+            "areaId": "9926",
+            "areaName": "반석사근린공원"
+        },
+        {
+            "areaId": "9753",
+            "areaName": "이마트"
+        },
+        {
+            "areaId": "9755",
+            "areaName": "평화광장"
+        },
+        {
+            "areaId": "9534",
+            "areaName": "울산 달동"
+        },
+        {
+            "areaId": "9559",
+            "areaName": "도서동"
+        },
+        {
+            "areaId": "9874",
+            "areaName": "아주대삼거리"
+        },
+        {
+            "areaId": "10005",
+            "areaName": "의정부역"
+        },
+        {
+            "areaId": "9953",
+            "areaName": "광주종합터미널"
+        },
+        {
+            "areaId": "10215",
+            "areaName": "천안종합버스터미널"
+        },
+        {
+            "areaId": "9553",
+            "areaName": "울산 성남동"
+        },
+        {
+            "areaId": "9437",
+            "areaName": "덕천역"
+        },
+        {
+            "areaId": "10040",
+            "areaName": "화정역 남부"
+        },
+        {
+            "areaId": "9211",
+            "areaName": "발산역"
+        },
+        {
+            "areaId": "9382",
+            "areaName": "창동역"
+        },
+        {
+            "areaId": "10195",
+            "areaName": "은행동"
+        },
+        {
+            "areaId": "10277",
+            "areaName": "정릉역"
+        },
+        {
+            "areaId": "10044",
+            "areaName": "백석역 남부"
+        },
+        {
+            "areaId": "9387",
+            "areaName": "장안동사거리"
+        },
+        {
+            "areaId": "9264",
+            "areaName": "한양시장"
+        },
+        {
+            "areaId": "9989",
+            "areaName": "구리역"
+        },
+        {
+            "areaId": "9895",
+            "areaName": "팔달문로터리"
+        },
+        {
+            "areaId": "9261",
+            "areaName": "왕십리역"
+        },
+        {
+            "areaId": "9691",
+            "areaName": "죽도시장"
+        },
+        {
+            "areaId": "10171",
+            "areaName": "대전 시청역"
+        },
+        {
+            "areaId": "9727",
+            "areaName": "수완동"
+        },
+        {
+            "areaId": "10119",
+            "areaName": "인천시청"
+        },
+        {
+            "areaId": "10306",
+            "areaName": "명지1동명지국제신도시"
+        },
+        {
+            "areaId": "9721",
+            "areaName": "원당산공원"
+        },
+        {
+            "areaId": "9511",
+            "areaName": "당리역"
+        },
+        {
+            "areaId": "10076",
+            "areaName": "평촌먹거리촌"
+        },
+        {
+            "areaId": "9730",
+            "areaName": "광주예술의거리"
+        },
+        {
+            "areaId": "9249",
+            "areaName": "길동역"
+        },
+        {
+            "areaId": "9274",
+            "areaName": "장지역"
+        },
+        {
+            "areaId": "9421",
+            "areaName": "단구동 근린공원"
+        },
+        {
+            "areaId": "9251",
+            "areaName": "명일역"
+        },
+        {
+            "areaId": "9970",
+            "areaName": "모란역"
+        },
+        {
+            "areaId": "10214",
+            "areaName": "천안역"
+        },
+        {
+            "areaId": "9488",
+            "areaName": "민락동"
+        },
+        {
+            "areaId": "9868",
+            "areaName": "수원시청역 남부"
+        },
+        {
+            "areaId": "9542",
+            "areaName": "울산시청"
+        },
+        {
+            "areaId": "9425",
+            "areaName": "원주시외버스터미널"
+        },
+        {
+            "areaId": "9162",
+            "areaName": "불광역"
+        },
+        {
+            "areaId": "10252",
+            "areaName": "청주고속버스터미널"
+        },
+        {
+            "areaId": "9328",
+            "areaName": "학동역"
+        },
+        {
+            "areaId": "9152",
+            "areaName": "숙대입구역"
+        },
+        {
+            "areaId": "9954",
+            "areaName": "미금역"
+        },
+        {
+            "areaId": "9304",
+            "areaName": "양재역"
+        },
+        {
+            "areaId": "9517",
+            "areaName": "남항동"
+        },
+        {
+            "areaId": "9224",
+            "areaName": "오류동"
+        },
+        {
+            "areaId": "9237",
+            "areaName": "당산역"
+        },
+        {
+            "areaId": "9872",
+            "areaName": "망포역"
+        },
+        {
+            "areaId": "9928",
+            "areaName": "반월동상점가"
+        },
+        {
+            "areaId": "9582",
+            "areaName": "진주 중앙동"
+        },
+        {
+            "areaId": "9810",
+            "areaName": "도청앞신시가지"
+        },
+        {
+            "areaId": "9345",
+            "areaName": "신대방삼거리역"
+        },
+        {
+            "areaId": "9386",
+            "areaName": "신설동역"
+        },
+        {
+            "areaId": "9236",
+            "areaName": "국회의사당역"
+        },
+        {
+            "areaId": "9901",
+            "areaName": "죽전역"
+        },
+        {
+            "areaId": "9214",
+            "areaName": "서울디지털산업3단지"
+        },
+        {
+            "areaId": "9930",
+            "areaName": "병점중심상가"
+        },
+        {
+            "areaId": "9589",
+            "areaName": "김해시청"
+        },
+        {
+            "areaId": "9964",
+            "areaName": "정자역"
+        },
+        {
+            "areaId": "9440",
+            "areaName": "화명역"
+        },
+        {
+            "areaId": "9225",
+            "areaName": "서울디지털국가산업단지"
+        },
+        {
+            "areaId": "9713",
+            "areaName": "상무지구"
+        },
+        {
+            "areaId": "9394",
+            "areaName": "장한평역"
+        },
+        {
+            "areaId": "10107",
+            "areaName": "시민공원역"
+        },
+        {
+            "areaId": "10146",
+            "areaName": "부평시장"
+        },
+        {
+            "areaId": "9920",
+            "areaName": "평택역"
+        },
+        {
+            "areaId": "9693",
+            "areaName": "양덕동"
+        },
+        {
+            "areaId": "9751",
+            "areaName": "신흥동"
+        },
+        {
+            "areaId": "9326",
+            "areaName": "학동사거리"
+        },
+        {
+            "areaId": "9295",
+            "areaName": "선정릉역"
+        },
+        {
+            "areaId": "9604",
+            "areaName": "통영시청 제2청사"
+        },
+        {
+            "areaId": "10022",
+            "areaName": "역곡역"
+        },
+        {
+            "areaId": "9801",
+            "areaName": "서귀포 중앙동"
+        },
+        {
+            "areaId": "9175",
+            "areaName": "종각역"
+        },
+        {
+            "areaId": "10369",
+            "areaName": "기흥역"
+        },
+        {
+            "areaId": "9197",
+            "areaName": "북창동"
+        },
+        {
+            "areaId": "10346",
+            "areaName": "청라 커널웨이  수변공원"
+        },
+        {
+            "areaId": "9648",
+            "areaName": "봉무동"
+        },
+        {
+            "areaId": "9455",
+            "areaName": "사직2동"
+        },
+        {
+            "areaId": "9704",
+            "areaName": "경주역"
+        },
+        {
+            "areaId": "9609",
+            "areaName": "감삼역"
+        },
+        {
+            "areaId": "10074",
+            "areaName": "인덕원역"
+        },
+        {
+            "areaId": "9733",
+            "areaName": "금남로5가역"
+        },
+        {
+            "areaId": "9565",
+            "areaName": "월영동"
+        },
+        {
+            "areaId": "9943",
+            "areaName": "삼미시장"
+        },
+        {
+            "areaId": "9913",
+            "areaName": "소사벌지구"
+        },
+        {
+            "areaId": "9856",
+            "areaName": "정읍역"
+        },
+        {
+            "areaId": "9258",
+            "areaName": "군자역"
+        },
+        {
+            "areaId": "9305",
+            "areaName": "언주역"
+        },
+        {
+            "areaId": "9998",
+            "areaName": "평내호평역"
+        },
+        {
+            "areaId": "9732",
+            "areaName": "금남로4가역"
+        },
+        {
+            "areaId": "9832",
+            "areaName": "전주농산물도매시장"
+        },
+        {
+            "areaId": "10328",
+            "areaName": "호수공원 예천동 상권"
+        },
+        {
+            "areaId": "9646",
+            "areaName": "수성구청역"
+        },
+        {
+            "areaId": "9160",
+            "areaName": "이태원역"
+        },
+        {
+            "areaId": "9275",
+            "areaName": "강남구청역"
+        },
+        {
+            "areaId": "10123",
+            "areaName": "연수2동"
+        },
+        {
+            "areaId": "10112",
+            "areaName": "구월4동"
+        },
+        {
+            "areaId": "10021",
+            "areaName": "부천역"
+        },
+        {
+            "areaId": "9525",
+            "areaName": "부산 중앙역"
+        },
+        {
+            "areaId": "9725",
+            "areaName": "첨단CGV"
+        },
+        {
+            "areaId": "9216",
+            "areaName": "개봉동 현대아파트"
+        },
+        {
+            "areaId": "9289",
+            "areaName": "삼성역"
+        },
+        {
+            "areaId": "9662",
+            "areaName": "구미역"
+        },
+        {
+            "areaId": "9620",
+            "areaName": "대신동"
+        },
+        {
+            "areaId": "9151",
+            "areaName": "이대역"
+        },
+        {
+            "areaId": "10187",
+            "areaName": "대전복합터미널"
+        },
+        {
+            "areaId": "9282",
+            "areaName": "논현역 북부"
+        },
+        {
+            "areaId": "10055",
+            "areaName": "주엽역"
+        },
+        {
+            "areaId": "9643",
+            "areaName": "황금2동"
+        },
+        {
+            "areaId": "9496",
+            "areaName": "장산역 남부"
+        },
+        {
+            "areaId": "9502",
+            "areaName": "범일 중앙시장"
+        },
+        {
+            "areaId": "9490",
+            "areaName": "수영역"
+        },
+        {
+            "areaId": "9168",
+            "areaName": "광화문역 남부"
+        },
+        {
+            "areaId": "10192",
+            "areaName": "중앙로역"
+        },
+        {
+            "areaId": "10072",
+            "areaName": "관양사거리"
+        },
+        {
+            "areaId": "9254",
+            "areaName": "강변테크노마트"
+        },
+        {
+            "areaId": "9297",
+            "areaName": "수서역"
+        },
+        {
+            "areaId": "10308",
+            "areaName": "명지2동"
+        },
+        {
+            "areaId": "9166",
+            "areaName": "경복궁역"
+        },
+        {
+            "areaId": "9967",
+            "areaName": "성남시민회관앞"
+        },
+        {
+            "areaId": "9257",
+            "areaName": "구의역"
+        },
+        {
+            "areaId": "9355",
+            "areaName": "남부터미널역"
+        },
+        {
+            "areaId": "9612",
+            "areaName": "상인역"
+        },
+        {
+            "areaId": "10242",
+            "areaName": "강서동"
+        },
+        {
+            "areaId": "9180",
+            "areaName": "종로5가역 남부 7번출구"
+        },
+        {
+            "areaId": "9647",
+            "areaName": "신매역"
+        },
+        {
+            "areaId": "9759",
+            "areaName": "삼향읍"
+        },
+        {
+            "areaId": "9480",
+            "areaName": "대연성당"
+        },
+        {
+            "areaId": "9308",
+            "areaName": "역삼역남부 1번출구"
+        },
+        {
+            "areaId": "9185",
+            "areaName": "종묘앞"
+        },
+        {
+            "areaId": "10258",
+            "areaName": "흥덕구청"
+        },
+        {
+            "areaId": "9227",
+            "areaName": "시흥1동"
+        },
+        {
+            "areaId": "9771",
+            "areaName": "여서동"
+        },
+        {
+            "areaId": "10019",
+            "areaName": "장기사거리"
+        },
+        {
+            "areaId": "9605",
+            "areaName": "통영종합버스터미널"
+        },
+        {
+            "areaId": "9726",
+            "areaName": "하남"
+        },
+        {
+            "areaId": "9226",
+            "areaName": "독산1동"
+        },
+        {
+            "areaId": "10353",
+            "areaName": "강남동kbs방송국 상권"
+        },
+        {
+            "areaId": "9220",
+            "areaName": "구로역"
+        },
+        {
+            "areaId": "10199",
+            "areaName": "온양온천"
+        },
+        {
+            "areaId": "9927",
+            "areaName": "동탄센트럴파크"
+        },
+        {
+            "areaId": "9583",
+            "areaName": "평거동"
+        },
+        {
+            "areaId": "9603",
+            "areaName": "강구안"
+        },
+        {
+            "areaId": "9449",
+            "areaName": "구서동역"
+        },
+        {
+            "areaId": "10111",
+            "areaName": "간석오거리역"
+        },
+        {
+            "areaId": "9230",
+            "areaName": "등촌역"
+        },
+        {
+            "areaId": "9206",
+            "areaName": "을지로4가역"
+        },
+        {
+            "areaId": "9904",
+            "areaName": "흥덕초등학교앞"
+        },
+        {
+            "areaId": "9606",
+            "areaName": "성당못역"
+        },
+        {
+            "areaId": "9506",
+            "areaName": "괴정역"
+        },
+        {
+            "areaId": "9921",
+            "areaName": "통복동"
+        },
+        {
+            "areaId": "9283",
+            "areaName": "대치역"
+        },
+        {
+            "areaId": "10173",
+            "areaName": "대전 용문역"
+        },
+        {
+            "areaId": "9940",
+            "areaName": "철산역"
+        },
+        {
+            "areaId": "9466",
+            "areaName": "서초구청"
+        },
+        {
+            "areaId": "10177",
+            "areaName": "관평동"
+        },
+        {
+            "areaId": "10206",
+            "areaName": "성정2동"
+        },
+        {
+            "areaId": "10143",
+            "areaName": "굴포천역"
+        },
+        {
+            "areaId": "10238",
+            "areaName": "공주대학교"
+        },
+        {
+            "areaId": "9530",
+            "areaName": "울산 태화강역"
+        },
+        {
+            "areaId": "9941",
+            "areaName": "하안사거리"
+        },
+        {
+            "areaId": "9148",
+            "areaName": "서대문역"
+        },
+        {
+            "areaId": "9485",
+            "areaName": "용호3동"
+        },
+        {
+            "areaId": "10110",
+            "areaName": "가천의대길병원"
+        },
+        {
+            "areaId": "9983",
+            "areaName": "신장시장"
+        },
+        {
+            "areaId": "9845",
+            "areaName": "영등2동"
+        },
+        {
+            "areaId": "10128",
+            "areaName": "신포시장"
+        },
+        {
+            "areaId": "10091",
+            "areaName": "호수동상점가"
+        },
+        {
+            "areaId": "10096",
+            "areaName": "안산다문화거리"
+        },
+        {
+            "areaId": "9882",
+            "areaName": "장안구청"
+        },
+        {
+            "areaId": "9831",
+            "areaName": "아중역앞"
+        },
+        {
+            "areaId": "10193",
+            "areaName": "선화동"
+        },
+        {
+            "areaId": "10189",
+            "areaName": "대전중앙시장"
+        },
+        {
+            "areaId": "10125",
+            "areaName": "연수역"
+        },
+        {
+            "areaId": "9161",
+            "areaName": "한남오거리"
+        },
+        {
+            "areaId": "9663",
+            "areaName": "원평동"
+        },
+        {
+            "areaId": "9140",
+            "areaName": "디지털미디어시티"
+        },
+        {
+            "areaId": "9259",
+            "areaName": "어린이대공원"
+        },
+        {
+            "areaId": "10063",
+            "areaName": "금촌역"
+        },
+        {
+            "areaId": "10023",
+            "areaName": "원종사거리"
+        },
+        {
+            "areaId": "9410",
+            "areaName": "원주대 강릉캠퍼스"
+        },
+        {
+            "areaId": "9791",
+            "areaName": "신대지구"
+        },
+        {
+            "areaId": "10035",
+            "areaName": "고양시청"
+        },
+        {
+            "areaId": "10038",
+            "areaName": "행신1동주민센터"
+        },
+        {
+            "areaId": "10031",
+            "areaName": "송내 영화의거리"
+        },
+        {
+            "areaId": "9786",
+            "areaName": "덕연동"
+        },
+        {
+            "areaId": "9938",
+            "areaName": "병점역"
+        },
+        {
+            "areaId": "9598",
+            "areaName": "양산역"
+        },
+        {
+            "areaId": "9263",
+            "areaName": "장안평 중고차시장골목"
+        },
+        {
+            "areaId": "9423",
+            "areaName": "봉화산 택지"
+        },
+        {
+            "areaId": "9570",
+            "areaName": "석동"
+        },
+        {
+            "areaId": "9528",
+            "areaName": "무거2동"
+        },
+        {
+            "areaId": "9881",
+            "areaName": "성균관대자연과학캠퍼스"
+        },
+        {
+            "areaId": "9588",
+            "areaName": "가야대학교 앞"
+        },
+        {
+            "areaId": "9743",
+            "areaName": "광주첨단2지구"
+        },
+        {
+            "areaId": "9250",
+            "areaName": "둔촌동역"
+        },
+        {
+            "areaId": "9566",
+            "areaName": "의창동"
+        },
+        {
+            "areaId": "9966",
+            "areaName": "판교테크벨리"
+        },
+        {
+            "areaId": "10231",
+            "areaName": "서산 읍내동"
+        },
+        {
+            "areaId": "9823",
+            "areaName": "전주 풍남동"
+        },
+        {
+            "areaId": "10137",
+            "areaName": "계산4동"
+        },
+        {
+            "areaId": "10154",
+            "areaName": "검단1동"
+        },
+        {
+            "areaId": "9268",
+            "areaName": "가락시장역"
+        },
+        {
+            "areaId": "10078",
+            "areaName": "호계사거리"
+        },
+        {
+            "areaId": "9505",
+            "areaName": "부산진역"
+        },
+        {
+            "areaId": "9742",
+            "areaName": "건국동"
+        },
+        {
+            "areaId": "9590",
+            "areaName": "내외동"
+        },
+        {
+            "areaId": "9404",
+            "areaName": "춘천 명동"
+        },
+        {
+            "areaId": "9418",
+            "areaName": "기독병원"
+        },
+        {
+            "areaId": "9316",
+            "areaName": "청담사거리"
+        },
+        {
+            "areaId": "9642",
+            "areaName": "지산1동"
+        },
+        {
+            "areaId": "9883",
+            "areaName": "장안문로터리"
+        },
+        {
+            "areaId": "9242",
+            "areaName": "영등포구청역"
+        },
+        {
+            "areaId": "9689",
+            "areaName": "오천읍"
+        },
+        {
+            "areaId": "10230",
+            "areaName": "서산공용버스터미널"
+        },
+        {
+            "areaId": "10106",
+            "areaName": "주안6동"
+        },
+        {
+            "areaId": "10335",
+            "areaName": "나주혁신도시"
+        },
+        {
+            "areaId": "10184",
+            "areaName": "궁동"
+        },
+        {
+            "areaId": "9555",
+            "areaName": "울산대공원정문"
+        },
+        {
+            "areaId": "9640",
+            "areaName": "태전1동"
+        },
+        {
+            "areaId": "9219",
+            "areaName": "디지털단지오거리"
+        },
+        {
+            "areaId": "10188",
+            "areaName": "대전역"
+        },
+        {
+            "areaId": "9741",
+            "areaName": "양산동"
+        },
+        {
+            "areaId": "10081",
+            "areaName": "안양대앞"
+        },
+        {
+            "areaId": "9494",
+            "areaName": "해운대 영화의 거리"
+        },
+        {
+            "areaId": "10371",
+            "areaName": "부산대병원상권"
+        },
+        {
+            "areaId": "10144",
+            "areaName": "동암역"
+        },
+        {
+            "areaId": "10141",
+            "areaName": "임학역"
+        },
+        {
+            "areaId": "10067",
+            "areaName": "정부과천청사역"
+        },
+        {
+            "areaId": "10017",
+            "areaName": "김포시청"
+        },
+        {
+            "areaId": "10041",
+            "areaName": "화정역 북부"
+        },
+        {
+            "areaId": "10250",
+            "areaName": "용담동광장"
+        },
+        {
+            "areaId": "9910",
+            "areaName": "상현역"
+        },
+        {
+            "areaId": "10350",
+            "areaName": "황리단길"
+        },
+        {
+            "areaId": "10309",
+            "areaName": "명지오션시티"
+        },
+        {
+            "areaId": "9599",
+            "areaName": "양산 중앙동"
+        },
+        {
+            "areaId": "10256",
+            "areaName": "충대중문"
+        },
+        {
+            "areaId": "10047",
+            "areaName": "장안2동"
+        },
+        {
+            "areaId": "9540",
+            "areaName": "울산고속버스터미널"
+        },
+        {
+            "areaId": "9415",
+            "areaName": "속초중앙시장"
+        },
+        {
+            "areaId": "10134",
+            "areaName": "경인교대입구역"
+        },
+        {
+            "areaId": "10204",
+            "areaName": "부성동"
+        },
+        {
+            "areaId": "10164",
+            "areaName": "관저2동"
+        },
+        {
+            "areaId": "9867",
+            "areaName": "수원버스터미널"
+        },
+        {
+            "areaId": "9803",
+            "areaName": "대학로"
+        },
+        {
+            "areaId": "10241",
+            "areaName": "오창"
+        },
+        {
+            "areaId": "9217",
+            "areaName": "구로기계공구상"
+        },
+        {
+            "areaId": "9561",
+            "areaName": "명곡동"
+        },
+        {
+            "areaId": "10166",
+            "areaName": "대전문화예술의전당"
+        },
+        {
+            "areaId": "9401",
+            "areaName": "남춘천역"
+        },
+        {
+            "areaId": "9495",
+            "areaName": "우1동"
+        },
+        {
+            "areaId": "9453",
+            "areaName": "명륜역"
+        },
+        {
+            "areaId": "10139",
+            "areaName": "계산역"
+        },
+        {
+            "areaId": "10194",
+            "areaName": "오류동먹자골목"
+        },
+        {
+            "areaId": "10262",
+            "areaName": "성내.충인"
+        },
+        {
+            "areaId": "9521",
+            "areaName": "남포 롯데백화점"
+        },
+        {
+            "areaId": "9924",
+            "areaName": "오산시청"
+        },
+        {
+            "areaId": "9962",
+            "areaName": "오리역"
+        },
+        {
+            "areaId": "10373",
+            "areaName": "동대신동역"
+        },
+        {
+            "areaId": "9722",
+            "areaName": "신창동"
+        },
+        {
+            "areaId": "10090",
+            "areaName": "선부광장"
+        },
+        {
+            "areaId": "10284",
+            "areaName": "원주혁신도시"
+        },
+        {
+            "areaId": "9915",
+            "areaName": "송탄출장소앞"
+        },
+        {
+            "areaId": "9352",
+            "areaName": "서울법원"
+        },
+        {
+            "areaId": "9965",
+            "areaName": "카페거리"
+        },
+        {
+            "areaId": "9409",
+            "areaName": "강릉 중앙동"
+        },
+        {
+            "areaId": "9234",
+            "areaName": "오목교역"
+        },
+        {
+            "areaId": "9408",
+            "areaName": "강릉역"
+        },
+        {
+            "areaId": "9285",
+            "areaName": "도산공원사거리"
+        },
+        {
+            "areaId": "10156",
+            "areaName": "서구청역"
+        },
+        {
+            "areaId": "9902",
+            "areaName": "죽전카페거리"
+        },
+        {
+            "areaId": "10372",
+            "areaName": "동아대부민캠퍼스"
+        },
+        {
+            "areaId": "9400",
+            "areaName": "거두리"
+        },
+        {
+            "areaId": "9723",
+            "areaName": "첨단1동주민센터"
+        },
+        {
+            "areaId": "10039",
+            "areaName": "행신역"
+        },
+        {
+            "areaId": "9478",
+            "areaName": "기장역"
+        },
+        {
+            "areaId": "9248",
+            "areaName": "고덕역"
+        },
+        {
+            "areaId": "9324",
+            "areaName": "포이사거리"
+        },
+        {
+            "areaId": "9734",
+            "areaName": "문화전당역"
+        },
+        {
+            "areaId": "10113",
+            "areaName": "인천 논현역"
+        },
+        {
+            "areaId": "9653",
+            "areaName": "옥동"
+        },
+        {
+            "areaId": "9222",
+            "areaName": "대림역"
+        },
+        {
+            "areaId": "9806",
+            "areaName": "노형동"
+        },
+        {
+            "areaId": "9333",
+            "areaName": "대학동"
+        },
+        {
+            "areaId": "9558",
+            "areaName": "도계상권"
+        },
+        {
+            "areaId": "10315",
+            "areaName": "동촌유원지"
+        },
+        {
+            "areaId": "9690",
+            "areaName": "죽도동"
+        },
+        {
+            "areaId": "9686",
+            "areaName": "대이동"
+        },
+        {
+            "areaId": "10159",
+            "areaName": "완정역"
+        },
+        {
+            "areaId": "9773",
+            "areaName": "여수 중앙동"
+        },
+        {
+            "areaId": "9700",
+            "areaName": "경산 중앙동"
+        },
+        {
+            "areaId": "9584",
+            "areaName": "하대동"
+        },
+        {
+            "areaId": "10098",
+            "areaName": "초지동주민센터"
+        },
+        {
+            "areaId": "10209",
+            "areaName": "신방동"
+        },
+        {
+            "areaId": "10275",
+            "areaName": "충북혁신도시"
+        },
+        {
+            "areaId": "9886",
+            "areaName": "못골종합시장"
+        },
+        {
+            "areaId": "10211",
+            "areaName": "쌍용동먹자골목"
+        },
+        {
+            "areaId": "9925",
+            "areaName": "오산역"
+        },
+        {
+            "areaId": "9365",
+            "areaName": "양재동 꽃시장"
+        },
+        {
+            "areaId": "9651",
+            "areaName": "안동문화의거리"
+        },
+        {
+            "areaId": "9948",
+            "areaName": "이마트시화점사거리"
+        },
+        {
+            "areaId": "10305",
+            "areaName": "명지동"
+        },
+        {
+            "areaId": "9247",
+            "areaName": "영등포유통상가"
+        },
+        {
+            "areaId": "9657",
+            "areaName": "하망동"
+        },
+        {
+            "areaId": "9951",
+            "areaName": "소화상업지구"
+        },
+        {
+            "areaId": "9674",
+            "areaName": "형곡1동"
+        },
+        {
+            "areaId": "9770",
+            "areaName": "봉산동 상권"
+        },
+        {
+            "areaId": "10240",
+            "areaName": "진천읍"
+        },
+        {
+            "areaId": "9627",
+            "areaName": "각산역"
+        },
+        {
+            "areaId": "9591",
+            "areaName": "삼안동"
+        },
+        {
+            "areaId": "9797",
+            "areaName": "해룡면"
+        },
+        {
+            "areaId": "10263",
+            "areaName": "신연수동"
+        },
+        {
+            "areaId": "9381",
+            "areaName": "등나무근린공원"
+        },
+        {
+            "areaId": "10099",
+            "areaName": "상록수역"
+        },
+        {
+            "areaId": "9911",
+            "areaName": "안성시장"
+        },
+        {
+            "areaId": "9817",
+            "areaName": "전북대학교"
+        },
+        {
+            "areaId": "9802",
+            "areaName": "고마로"
+        },
+        {
+            "areaId": "9451",
+            "areaName": "서동역"
+        },
+        {
+            "areaId": "10286",
+            "areaName": "진월동"
+        },
+        {
+            "areaId": "9454",
+            "areaName": "미남역"
+        },
+        {
+            "areaId": "9592",
+            "areaName": "진영읍"
+        },
+        {
+            "areaId": "9805",
+            "areaName": "칠성로"
+        },
+        {
+            "areaId": "9739",
+            "areaName": "전남대"
+        },
+        {
+            "areaId": "9652",
+            "areaName": "옥동 북부"
+        },
+        {
+            "areaId": "10053",
+            "areaName": "일산역"
+        },
+        {
+            "areaId": "9671",
+            "areaName": "인동동"
+        },
+        {
+            "areaId": "10367",
+            "areaName": "원평동3"
+        },
+        {
+            "areaId": "9622",
+            "areaName": "성내3동"
+        },
+        {
+            "areaId": "9720",
+            "areaName": "광주 송정역"
+        },
+        {
+            "areaId": "10180",
+            "areaName": "노은역"
+        },
+        {
+            "areaId": "9696",
+            "areaName": "효곡동"
+        },
+        {
+            "areaId": "10323",
+            "areaName": "고성동"
+        },
+        {
+            "areaId": "9319",
+            "areaName": "청담역"
+        },
+        {
+            "areaId": "9715",
+            "areaName": "금호1동"
+        },
+        {
+            "areaId": "10071",
+            "areaName": "계원예술대학교"
+        },
+        {
+            "areaId": "9650",
+            "areaName": "안동시청"
+        },
+        {
+            "areaId": "10052",
+            "areaName": "대화역"
+        },
+        {
+            "areaId": "10186",
+            "areaName": "가오동"
+        },
+        {
+            "areaId": "9601",
+            "areaName": "옥포여객터미널"
+        },
+        {
+            "areaId": "9619",
+            "areaName": "칠성시장역"
+        },
+        {
+            "areaId": "10251",
+            "areaName": "용암1지구"
+        },
+        {
+            "areaId": "10042",
+            "areaName": "마두역 6번출구"
+        },
+        {
+            "areaId": "10105",
+            "areaName": "주안2동"
+        },
+        {
+            "areaId": "9369",
+            "areaName": "서래마을"
+        },
+        {
+            "areaId": "9360",
+            "areaName": "방배역"
+        },
+        {
+            "areaId": "9949",
+            "areaName": "정왕동옥구상가"
+        },
+        {
+            "areaId": "9814",
+            "areaName": "전주 롯데백화점"
+        },
+        {
+            "areaId": "9489",
+            "areaName": "민락수변공원"
+        },
+        {
+            "areaId": "10155",
+            "areaName": "발산초등학교"
+        },
+        {
+            "areaId": "9527",
+            "areaName": "울산대"
+        },
+        {
+            "areaId": "9644",
+            "areaName": "담티역"
+        },
+        {
+            "areaId": "9358",
+            "areaName": "매봉역"
+        },
+        {
+            "areaId": "9942",
+            "areaName": "비둘기공원앞"
+        },
+        {
+            "areaId": "9159",
+            "areaName": "용산구청"
+        },
+        {
+            "areaId": "9509",
+            "areaName": "다대1동"
+        },
+        {
+            "areaId": "9824",
+            "areaName": "중화산1동"
+        },
+        {
+            "areaId": "9562",
+            "areaName": "사파동"
+        },
+        {
+            "areaId": "9821",
+            "areaName": "전주 중앙시장"
+        },
+        {
+            "areaId": "10310",
+            "areaName": "명지신호산단"
+        },
+        {
+            "areaId": "10101",
+            "areaName": "한대앞역"
+        },
+        {
+            "areaId": "10297",
+            "areaName": "의왕역"
+        },
+        {
+            "areaId": "9934",
+            "areaName": "수원대앞"
+        },
+        {
+            "areaId": "9676",
+            "areaName": "김천역"
+        },
+        {
+            "areaId": "9611",
+            "areaName": "도원동"
+        },
+        {
+            "areaId": "9932",
+            "areaName": "향남신도시"
+        },
+        {
+            "areaId": "10045",
+            "areaName": "백석역 북부"
+        },
+        {
+            "areaId": "9265",
+            "areaName": "석촌역"
+        },
+        {
+            "areaId": "9544",
+            "areaName": "남목1동"
+        },
+        {
+            "areaId": "9552",
+            "areaName": "병영1동"
+        },
+        {
+            "areaId": "9510",
+            "areaName": "당리역 남부"
+        },
+        {
+            "areaId": "9740",
+            "areaName": "남광주시장"
+        },
+        {
+            "areaId": "9207",
+            "areaName": "장충동 족발거리"
+        },
+        {
+            "areaId": "10152",
+            "areaName": "가정1동"
+        },
+        {
+            "areaId": "9636",
+            "areaName": "산격2동"
+        },
+        {
+            "areaId": "9977",
+            "areaName": "여주중앙로 문화의거리"
+        },
+        {
+            "areaId": "10236",
+            "areaName": "중동4거리"
+        },
+        {
+            "areaId": "9737",
+            "areaName": "문흥1동"
+        },
+        {
+            "areaId": "9673",
+            "areaName": "진미동"
+        },
+        {
+            "areaId": "9738",
+            "areaName": "일곡동"
+        },
+        {
+            "areaId": "9359",
+            "areaName": "방배동카페골목"
+        },
+        {
+            "areaId": "10290",
+            "areaName": "쌍촌동2"
+        },
+        {
+            "areaId": "10265",
+            "areaName": "중앙.의림동"
+        },
+        {
+            "areaId": "9840",
+            "areaName": "삼성역 8번출구"
+        },
+        {
+            "areaId": "9678",
+            "areaName": "동문동"
+        },
+        {
+            "areaId": "9818",
+            "areaName": "전주시청"
+        },
+        {
+            "areaId": "9203",
+            "areaName": "약수역"
+        },
+        {
+            "areaId": "9483",
+            "areaName": "대연역"
+        },
+        {
+            "areaId": "10162",
+            "areaName": "동춘당공원"
+        },
+        {
+            "areaId": "9427",
+            "areaName": "원주의료원"
+        },
+        {
+            "areaId": "9632",
+            "areaName": "효목2동"
+        },
+        {
+            "areaId": "9865",
+            "areaName": "정읍시청"
+        },
+        {
+            "areaId": "9729",
+            "areaName": "흑석사거리"
+        },
+        {
+            "areaId": "10069",
+            "areaName": "금정역"
+        },
+        {
+            "areaId": "9994",
+            "areaName": "마석역"
+        },
+        {
+            "areaId": "10010",
+            "areaName": "송우리"
+        },
+        {
+            "areaId": "9571",
+            "areaName": "산호동"
+        },
+        {
+            "areaId": "9945",
+            "areaName": "오이도해양단지"
+        },
+        {
+            "areaId": "9470",
+            "areaName": "연산8동"
+        },
+        {
+            "areaId": "9885",
+            "areaName": "정자3동주민센터"
+        },
+        {
+            "areaId": "10226",
+            "areaName": "대천1동"
+        },
+        {
+            "areaId": "10015",
+            "areaName": "덕소역"
+        },
+        {
+            "areaId": "9995",
+            "areaName": "심석고등학교"
+        },
+        {
+            "areaId": "9173",
+            "areaName": "안국역"
+        },
+        {
+            "areaId": "9687",
+            "areaName": "두호동"
+        },
+        {
+            "areaId": "9968",
+            "areaName": "신흥역"
+        },
+        {
+            "areaId": "10349",
+            "areaName": "김천구미역"
+        },
+        {
+            "areaId": "9536",
+            "areaName": "신정2동"
+        },
+        {
+            "areaId": "9697",
+            "areaName": "효자동"
+        },
+        {
+            "areaId": "10229",
+            "areaName": "동문1동"
+        },
+        {
+            "areaId": "10243",
+            "areaName": "공구상가"
+        },
+        {
+            "areaId": "9899",
+            "areaName": "구갈공원"
+        },
+        {
+            "areaId": "9385",
+            "areaName": "경희대학교"
+        },
+        {
+            "areaId": "9212",
+            "areaName": "강서 송정역"
+        },
+        {
+            "areaId": "10131",
+            "areaName": "송도카페거리"
+        },
+        {
+            "areaId": "9712",
+            "areaName": "봉선지구"
+        },
+        {
+            "areaId": "9778",
+            "areaName": "죽림지구"
+        },
+        {
+            "areaId": "10176",
+            "areaName": "월평역"
+        },
+        {
+            "areaId": "9864",
+            "areaName": "수성동"
+        },
+        {
+            "areaId": "10009",
+            "areaName": "송우리시외버스터미널"
+        },
+        {
+            "areaId": "10127",
+            "areaName": "동인천역"
+        },
+        {
+            "areaId": "9233",
+            "areaName": "신정네거리역"
+        },
+        {
+            "areaId": "9487",
+            "areaName": "남천1동"
+        },
+        {
+            "areaId": "9363",
+            "areaName": "서초역"
+        },
+        {
+            "areaId": "9514",
+            "areaName": "장림2동"
+        },
+        {
+            "areaId": "9426",
+            "areaName": "구원주역"
+        },
+        {
+            "areaId": "9749",
+            "areaName": "목포종합버스터미널"
+        },
+        {
+            "areaId": "10295",
+            "areaName": "광주 화정동"
+        },
+        {
+            "areaId": "10121",
+            "areaName": "동춘2동"
+        },
+        {
+            "areaId": "9547",
+            "areaName": "농소1동"
+        },
+        {
+            "areaId": "10114",
+            "areaName": "만수1동"
+        },
+        {
+            "areaId": "10266",
+            "areaName": "제천시외버스터미널"
+        },
+        {
+            "areaId": "9784",
+            "areaName": "중마동"
+        },
+        {
+            "areaId": "9413",
+            "areaName": "교동삼거리"
+        },
+        {
+            "areaId": "9403",
+            "areaName": "애막골"
+        },
+        {
+            "areaId": "10089",
+            "areaName": "별망중학교앞"
+        },
+        {
+            "areaId": "10167",
+            "areaName": "청사시외버스정류장"
+        },
+        {
+            "areaId": "9699",
+            "areaName": "영남대역"
+        },
+        {
+            "areaId": "10325",
+            "areaName": "침산네거리"
+        },
+        {
+            "areaId": "9610",
+            "areaName": "계명대"
+        },
+        {
+            "areaId": "10179",
+            "areaName": "노은2동"
+        },
+        {
+            "areaId": "10261",
+            "areaName": "충주시청"
+        },
+        {
+            "areaId": "10020",
+            "areaName": "통진우체국"
+        },
+        {
+            "areaId": "9232",
+            "areaName": "목동사거리"
+        },
+        {
+            "areaId": "9944",
+            "areaName": "시흥시평생학습센터앞"
+        },
+        {
+            "areaId": "9813",
+            "areaName": "서산동"
+        },
+        {
+            "areaId": "9914",
+            "areaName": "송탄국제중앙시장"
+        },
+        {
+            "areaId": "9950",
+            "areaName": "정왕시장"
+        },
+        {
+            "areaId": "9554",
+            "areaName": "태화동 태화 종합시장"
+        },
+        {
+            "areaId": "10293",
+            "areaName": "풍암동1"
+        },
+        {
+            "areaId": "10208",
+            "areaName": "천안기계공구단지"
+        },
+        {
+            "areaId": "9639",
+            "areaName": "칠곡 읍내동"
+        },
+        {
+            "areaId": "10289",
+            "areaName": "쌍촌동1"
+        },
+        {
+            "areaId": "9569",
+            "areaName": "창원역"
+        },
+        {
+            "areaId": "9351",
+            "areaName": "교대역"
+        },
+        {
+            "areaId": "9346",
+            "areaName": "총신대 앞"
+        },
+        {
+            "areaId": "9776",
+            "areaName": "흥국상가"
+        },
+        {
+            "areaId": "9433",
+            "areaName": "삼척 중앙로"
+        },
+        {
+            "areaId": "9937",
+            "areaName": "오산오색시장"
+        },
+        {
+            "areaId": "9617",
+            "areaName": "신당동"
+        },
+        {
+            "areaId": "10185",
+            "areaName": "신성동"
+        },
+        {
+            "areaId": "9794",
+            "areaName": "왕조2동"
+        },
+        {
+            "areaId": "10313",
+            "areaName": "율하광장"
+        },
+        {
+            "areaId": "10366",
+            "areaName": "무선지구"
+        },
+        {
+            "areaId": "9549",
+            "areaName": "언양시외버스터미널"
+        },
+        {
+            "areaId": "9917",
+            "areaName": "평택시청"
+        },
+        {
+            "areaId": "9443",
+            "areaName": "감전동"
+        },
+        {
+            "areaId": "9392",
+            "areaName": "안암역"
+        },
+        {
+            "areaId": "9923",
+            "areaName": "공도읍"
+        },
+        {
+            "areaId": "10291",
+            "areaName": "광주 동천동"
+        },
+        {
+            "areaId": "9630",
+            "areaName": "신암3동"
+        },
+        {
+            "areaId": "9448",
+            "areaName": "엄궁동"
+        },
+        {
+            "areaId": "9634",
+            "areaName": "노원동"
+        },
+        {
+            "areaId": "9748",
+            "areaName": "동부시장"
+        },
+        {
+            "areaId": "10333",
+            "areaName": "문경 중앙시장"
+        },
+        {
+            "areaId": "9432",
+            "areaName": "천곡중앙로"
+        },
+        {
+            "areaId": "9638",
+            "areaName": "산격3동"
+        },
+        {
+            "areaId": "9826",
+            "areaName": "평화주공 생태공원"
+        },
+        {
+            "areaId": "9912",
+            "areaName": "서정리역"
+        },
+        {
+            "areaId": "9997",
+            "areaName": "평내동주민센터"
+        },
+        {
+            "areaId": "9435",
+            "areaName": "태백 버스터미널"
+        },
+        {
+            "areaId": "9564",
+            "areaName": "웅동2동"
+        },
+        {
+            "areaId": "10004",
+            "areaName": "경기도청북부청사역"
+        },
+        {
+            "areaId": "10024",
+            "areaName": "부개역"
+        },
+        {
+            "areaId": "10254",
+            "areaName": "청주산업단지"
+        },
+        {
+            "areaId": "10354",
+            "areaName": "칠금,금릉동"
+        },
+        {
+            "areaId": "10196",
+            "areaName": "태평동"
+        },
+        {
+            "areaId": "9849",
+            "areaName": "군산대학교"
+        },
+        {
+            "areaId": "10276",
+            "areaName": "북한산보국문역"
+        },
+        {
+            "areaId": "9790",
+            "areaName": "순천역"
+        },
+        {
+            "areaId": "9848",
+            "areaName": "익산역"
+        },
+        {
+            "areaId": "10235",
+            "areaName": "조치원"
+        },
+        {
+            "areaId": "10360",
+            "areaName": "모현동 2"
+        },
+        {
+            "areaId": "9783",
+            "areaName": "중마버스터미널"
+        },
+        {
+            "areaId": "10245",
+            "areaName": "산남동"
+        },
+        {
+            "areaId": "9668",
+            "areaName": "신평1동"
+        },
+        {
+            "areaId": "10216",
+            "areaName": "계룡엄사"
+        },
+        {
+            "areaId": "9702",
+            "areaName": "하양읍"
+        },
+        {
+            "areaId": "9843",
+            "areaName": "영등1동"
+        },
+        {
+            "areaId": "10003",
+            "areaName": "경기도청북부청사"
+        },
+        {
+            "areaId": "10316",
+            "areaName": "대구혁신도시"
+        },
+        {
+            "areaId": "9572",
+            "areaName": "거창읍"
+        },
+        {
+            "areaId": "9698",
+            "areaName": "남부동"
+        },
+        {
+            "areaId": "9602",
+            "areaName": "고성군청"
+        },
+        {
+            "areaId": "9577",
+            "areaName": "사천 삼천포"
+        },
+        {
+            "areaId": "9266",
+            "areaName": "사가정역"
+        },
+        {
+            "areaId": "10299",
+            "areaName": "당정동"
+        },
+        {
+            "areaId": "10103",
+            "areaName": "인천지방법원"
+        },
+        {
+            "areaId": "10130",
+            "areaName": "운서동"
+        },
+        {
+            "areaId": "9398",
+            "areaName": "동송시외버스공용터미널"
+        },
+        {
+            "areaId": "9851",
+            "areaName": "지곡동"
+        },
+        {
+            "areaId": "10016",
+            "areaName": "고촌읍사무소"
+        },
+        {
+            "areaId": "9670",
+            "areaName": "양포동"
+        },
+        {
+            "areaId": "9717",
+            "areaName": "양동시장"
+        },
+        {
+            "areaId": "10133",
+            "areaName": "강화군청"
+        },
+        {
+            "areaId": "10294",
+            "areaName": "풍암동2"
+        },
+        {
+            "areaId": "9827",
+            "areaName": "평화2동"
+        },
+        {
+            "areaId": "9747",
+            "areaName": "MBC"
+        },
+        {
+            "areaId": "9471",
+            "areaName": "연산9동"
+        },
+        {
+            "areaId": "9411",
+            "areaName": "주문진항"
+        },
+        {
+            "areaId": "9666",
+            "areaName": "선주원남동"
+        },
+        {
+            "areaId": "10037",
+            "areaName": "덕양구청"
+        },
+        {
+            "areaId": "10079",
+            "areaName": "명학역"
+        },
+        {
+            "areaId": "9405",
+            "areaName": "홍천읍"
+        },
+        {
+            "areaId": "9550",
+            "areaName": "온산읍"
+        },
+        {
+            "areaId": "9916",
+            "areaName": "안중시장삼거리"
+        },
+        {
+            "areaId": "9922",
+            "areaName": "포승도곡근린공원"
+        },
+        {
+            "areaId": "9600",
+            "areaName": "고현시외버스터미널"
+        },
+        {
+            "areaId": "9551",
+            "areaName": "울주경찰서"
+        },
+        {
+            "areaId": "9854",
+            "areaName": "마원사거리"
+        },
+        {
+            "areaId": "9728",
+            "areaName": "선운지구"
+        },
+        {
+            "areaId": "10115",
+            "areaName": "만수2동"
+        },
+        {
+            "areaId": "10292",
+            "areaName": "유촌동"
+        },
+        {
+            "areaId": "10220",
+            "areaName": "논산시외터미널"
+        },
+        {
+            "areaId": "10374",
+            "areaName": "동아대병원"
+        },
+        {
+            "areaId": "10247",
+            "areaName": "상당구청"
+        },
+        {
+            "areaId": "10122",
+            "areaName": "송도1동"
+        },
+        {
+            "areaId": "9972",
+            "areaName": "양평역"
+        },
+        {
+            "areaId": "10331",
+            "areaName": "원도심 상권"
+        },
+        {
+            "areaId": "9574",
+            "areaName": "남해군청"
+        },
+        {
+            "areaId": "9900",
+            "areaName": "신갈오거리"
+        },
+        {
+            "areaId": "9811",
+            "areaName": "삼천3동"
+        },
+        {
+            "areaId": "9709",
+            "areaName": "영천역"
+        },
+        {
+            "areaId": "9586",
+            "areaName": "함양군청"
+        },
+        {
+            "areaId": "9708",
+            "areaName": "황성동"
+        },
+        {
+            "areaId": "10370",
+            "areaName": "유천택지"
+        },
+        {
+            "areaId": "9929",
+            "areaName": "발안사거리"
+        },
+        {
+            "areaId": "9703",
+            "areaName": "경주시청"
+        },
+        {
+            "areaId": "10116",
+            "areaName": "만수6동"
+        },
+        {
+            "areaId": "9775",
+            "areaName": "학동상권"
+        },
+        {
+            "areaId": "9812",
+            "areaName": "서곡지구"
+        },
+        {
+            "areaId": "10320",
+            "areaName": "금호지구"
+        },
+        {
+            "areaId": "9816",
+            "areaName": "아중고려병원"
+        },
+        {
+            "areaId": "10104",
+            "areaName": "인하대 후문"
+        },
+        {
+            "areaId": "9760",
+            "areaName": "영광읍"
+        },
+        {
+            "areaId": "9269",
+            "areaName": "문정역"
+        },
+        {
+            "areaId": "9557",
+            "areaName": "창녕읍"
+        },
+        {
+            "areaId": "9655",
+            "areaName": "영주역"
+        },
+        {
+            "areaId": "9842",
+            "areaName": "신동"
+        },
+        {
+            "areaId": "9800",
+            "areaName": "동흥동"
+        },
+        {
+            "areaId": "9975",
+            "areaName": "양평 용문역"
+        },
+        {
+            "areaId": "9545",
+            "areaName": "대송동"
+        },
+        {
+            "areaId": "9575",
+            "areaName": "벌리동"
+        },
+        {
+            "areaId": "9898",
+            "areaName": "강남대"
+        },
+        {
+            "areaId": "9407",
+            "areaName": "팔호 광장"
+        },
+        {
+            "areaId": "9661",
+            "areaName": "구미시청"
+        },
+        {
+            "areaId": "9788",
+            "areaName": "순천만국가정원"
+        },
+        {
+            "areaId": "10285",
+            "areaName": "상무지구3"
+        },
+        {
+            "areaId": "10002",
+            "areaName": "가능역"
+        },
+        {
+            "areaId": "10080",
+            "areaName": "성결대"
+        },
+        {
+            "areaId": "10253",
+            "areaName": "청주법원"
+        },
+        {
+            "areaId": "10255",
+            "areaName": "교육청"
+        },
+        {
+            "areaId": "9795",
+            "areaName": "순천 중앙동"
+        },
+        {
+            "areaId": "9828",
+            "areaName": "풍남동"
+        },
+        {
+            "areaId": "9918",
+            "areaName": "비전2동"
+        },
+        {
+            "areaId": "9757",
+            "areaName": "하당동"
+        },
+        {
+            "areaId": "10228",
+            "areaName": "동대동"
+        },
+        {
+            "areaId": "9414",
+            "areaName": "속초먹거리단지"
+        },
+        {
+            "areaId": "9581",
+            "areaName": "상대1동"
+        },
+        {
+            "areaId": "10001",
+            "areaName": "전곡터미널"
+        },
+        {
+            "areaId": "10087",
+            "areaName": "고잔역"
+        },
+        {
+            "areaId": "10280",
+            "areaName": "시흥시청"
+        },
+        {
+            "areaId": "9996",
+            "areaName": "장현초등학교"
+        },
+        {
+            "areaId": "10232",
+            "areaName": "태안읍"
+        },
+        {
+            "areaId": "9469",
+            "areaName": "거제1동"
+        },
+        {
+            "areaId": "9512",
+            "areaName": "동아대학교승학캠퍼스"
+        },
+        {
+            "areaId": "10259",
+            "areaName": "농수산물시장"
+        },
+        {
+            "areaId": "9716",
+            "areaName": "서부농수산물도매시장"
+        },
+        {
+            "areaId": "9685",
+            "areaName": "구룡포읍"
+        },
+        {
+            "areaId": "10358",
+            "areaName": "호암지구"
+        },
+        {
+            "areaId": "9976",
+            "areaName": "여주시청"
+        },
+        {
+            "areaId": "9153",
+            "areaName": "신용산역"
+        },
+        {
+            "areaId": "9568",
+            "areaName": "진해역"
+        },
+        {
+            "areaId": "9694",
+            "areaName": "포항 남부시장"
+        },
+        {
+            "areaId": "10100",
+            "areaName": "송호고등학교앞"
+        },
+        {
+            "areaId": "9861",
+            "areaName": "요촌동"
+        },
+        {
+            "areaId": "9952",
+            "areaName": "곤지암시외버스터미널"
+        },
+        {
+            "areaId": "9787",
+            "areaName": "순천 삼산동"
+        },
+        {
+            "areaId": "9587",
+            "areaName": "합천시외버스터미널"
+        },
+        {
+            "areaId": "9745",
+            "areaName": "나주버스터미널"
+        },
+        {
+            "areaId": "9756",
+            "areaName": "하당 전자랜드"
+        },
+        {
+            "areaId": "9513",
+            "areaName": "사하역"
+        },
+        {
+            "areaId": "10178",
+            "areaName": "구즉동"
+        },
+        {
+            "areaId": "10246",
+            "areaName": "분평동"
+        },
+        {
+            "areaId": "9830",
+            "areaName": "하가지구"
+        },
+        {
+            "areaId": "9664",
+            "areaName": "상모사곡동"
+        },
+        {
+            "areaId": "9695",
+            "areaName": "포항시청"
+        },
+        {
+            "areaId": "9402",
+            "areaName": "스무숲"
+        },
+        {
+            "areaId": "9563",
+            "areaName": "양덕2동"
+        },
+        {
+            "areaId": "9765",
+            "areaName": "진도읍"
+        },
+        {
+            "areaId": "9798",
+            "areaName": "화순읍"
+        },
+        {
+            "areaId": "9866",
+            "areaName": "정읍역"
+        },
+        {
+            "areaId": "9343",
+            "areaName": "노량진역"
+        },
+        {
+            "areaId": "10061",
+            "areaName": "금릉역"
+        },
+        {
+            "areaId": "9364",
+            "areaName": "양재 화물트럭터미널앞"
+        },
+        {
+            "areaId": "9667",
+            "areaName": "구미 법원"
+        },
+        {
+            "areaId": "10191",
+            "areaName": "산성시장"
+        },
+        {
+            "areaId": "10203",
+            "areaName": "예산종합터미널"
+        },
+        {
+            "areaId": "10271",
+            "areaName": "증평군청"
+        },
+        {
+            "areaId": "10197",
+            "areaName": "배방읍"
+        },
+        {
+            "areaId": "9762",
+            "areaName": "완도읍"
+        },
+        {
+            "areaId": "10288",
+            "areaName": "양림동"
+        },
+        {
+            "areaId": "9946",
+            "areaName": "유천아파트앞"
+        },
+        {
+            "areaId": "10264",
+            "areaName": "단양구경시장"
+        },
+        {
+            "areaId": "9820",
+            "areaName": "전주역"
+        },
+        {
+            "areaId": "9235",
+            "areaName": "국회의사당역 4번출구"
+        },
+        {
+            "areaId": "9396",
+            "areaName": "양구읍"
+        },
+        {
+            "areaId": "9430",
+            "areaName": "횡성군청"
+        },
+        {
+            "areaId": "10153",
+            "areaName": "엠파크타워"
+        },
+        {
+            "areaId": "9768",
+            "areaName": "해남종합버스터미널"
+        },
+        {
+            "areaId": "10012",
+            "areaName": "포천시외버스터미널"
+        },
+        {
+            "areaId": "9935",
+            "areaName": "남양시장"
+        },
+        {
+            "areaId": "9835",
+            "areaName": "도통동"
+        },
+        {
+            "areaId": "10352",
+            "areaName": "산동면1"
+        },
+        {
+            "areaId": "10227",
+            "areaName": "대천2동"
+        },
+        {
+            "areaId": "9744",
+            "areaName": "강진버스여객터미널"
+        },
+        {
+            "areaId": "9701",
+            "areaName": "진량읍"
+        },
+        {
+            "areaId": "9992",
+            "areaName": "구리등기소"
+        },
+        {
+            "areaId": "9688",
+            "areaName": "오거리"
+        },
+        {
+            "areaId": "9680",
+            "areaName": "석적읍"
+        },
+        {
+            "areaId": "9825",
+            "areaName": "중화산2동"
+        },
+        {
+            "areaId": "9931",
+            "areaName": "조암버스터미널"
+        },
+        {
+            "areaId": "9859",
+            "areaName": "고창공용버스터미널"
+        },
+        {
+            "areaId": "10298",
+            "areaName": "대호동상권"
+        },
+        {
+            "areaId": "10361",
+            "areaName": "청도읍"
+        },
+        {
+            "areaId": "9780",
+            "areaName": "도양읍"
+        },
+        {
+            "areaId": "10060",
+            "areaName": "파주출판산업단지"
+        },
+        {
+            "areaId": "9576",
+            "areaName": "사천읍"
+        },
+        {
+            "areaId": "9839",
+            "areaName": "모현동"
+        },
+        {
+            "areaId": "10273",
+            "areaName": "영동읍"
+        },
+        {
+            "areaId": "9880",
+            "areaName": "샘내공원삼거리"
+        },
+        {
+            "areaId": "9618",
+            "areaName": "장기동"
+        },
+        {
+            "areaId": "9707",
+            "areaName": "용강동"
+        },
+        {
+            "areaId": "10129",
+            "areaName": "연안부두"
+        },
+        {
+            "areaId": "10303",
+            "areaName": "서부산유통단지 북부"
+        },
+        {
+            "areaId": "9862",
+            "areaName": "부안시외버스터미널"
+        },
+        {
+            "areaId": "9758",
+            "areaName": "무안읍"
+        },
+        {
+            "areaId": "10219",
+            "areaName": "논산시네마"
+        },
+        {
+            "areaId": "9779",
+            "areaName": "고흥읍"
+        },
+        {
+            "areaId": "10132",
+            "areaName": "송도신도시"
+        },
+        {
+            "areaId": "9982",
+            "areaName": "장호원버스터미널"
+        },
+        {
+            "areaId": "9860",
+            "areaName": "고창전통시장"
+        },
+        {
+            "areaId": "10207",
+            "areaName": "성환읍"
+        },
+        {
+            "areaId": "9669",
+            "areaName": "옥계동"
+        },
+        {
+            "areaId": "10237",
+            "areaName": "청양시외버스터미널"
+        },
+        {
+            "areaId": "9834",
+            "areaName": "남원공용버스터미널"
+        },
+        {
+            "areaId": "9838",
+            "areaName": "남중동"
+        },
+        {
+            "areaId": "9436",
+            "areaName": "태백역"
+        },
+        {
+            "areaId": "9538",
+            "areaName": "야음장생포동"
+        },
+        {
+            "areaId": "9672",
+            "areaName": "임수동 공구상가"
+        },
+        {
+            "areaId": "9431",
+            "areaName": "묵호역"
+        },
+        {
+            "areaId": "9579",
+            "areaName": "의령읍"
+        },
+        {
+            "areaId": "9947",
+            "areaName": "유통상가사거리"
+        },
+        {
+            "areaId": "10225",
+            "areaName": "합덕읍"
+        },
+        {
+            "areaId": "10249",
+            "areaName": "성화"
+        },
+        {
+            "areaId": "9399",
+            "areaName": "신철원터미널"
+        },
+        {
+            "areaId": "9660",
+            "areaName": "고령시외버스터미널"
+        },
+        {
+            "areaId": "10218",
+            "areaName": "강경시외버스터미널"
+        },
+        {
+            "areaId": "9808",
+            "areaName": "삼례읍"
+        },
+        {
+            "areaId": "10267",
+            "areaName": "대명리조트앞"
+        },
+        {
+            "areaId": "9789",
+            "areaName": "순천시청"
+        },
+        {
+            "areaId": "10011",
+            "areaName": "일동면"
+        },
+        {
+            "areaId": "9853",
+            "areaName": "군산 중앙동"
+        },
+        {
+            "areaId": "9863",
+            "areaName": "부안성모병원"
+        },
+        {
+            "areaId": "10287",
+            "areaName": "봉선동2"
+        },
+        {
+            "areaId": "9763",
+            "areaName": "장성역"
+        },
+        {
+            "areaId": "10332",
+            "areaName": "당진버스터미널"
+        },
+        {
+            "areaId": "10200",
+            "areaName": "신례원역"
+        },
+        {
+            "areaId": "9785",
+            "areaName": "담양여객버스터미널"
+        },
+        {
+            "areaId": "10329",
+            "areaName": "홍성명동상점가"
+        },
+        {
+            "areaId": "9985",
+            "areaName": "가평읍"
+        },
+        {
+            "areaId": "10268",
+            "areaName": "괴산시외버스공용터미널"
+        },
+        {
+            "areaId": "9764",
+            "areaName": "장흥군청"
+        },
+        {
+            "areaId": "9397",
+            "areaName": "인제읍"
+        },
+        {
+            "areaId": "10217",
+            "areaName": "금산읍"
+        },
+        {
+            "areaId": "9659",
+            "areaName": "의성역"
+        },
+        {
+            "areaId": "9585",
+            "areaName": "하동공설시장"
+        },
+        {
+            "areaId": "10239",
+            "areaName": "광혜원면"
+        },
+        {
+            "areaId": "10355",
+            "areaName": "구례읍"
+        },
+        {
+            "areaId": "10338",
+            "areaName": "영광 법성포 상권"
+        },
+        {
+            "areaId": "9711",
+            "areaName": "경산시외버스터미널"
+        },
+        {
+            "areaId": "9761",
+            "areaName": "영암군청"
+        },
+        {
+            "areaId": "9705",
+            "areaName": "안강운동장"
+        },
+        {
+            "areaId": "10065",
+            "areaName": "법원사거리"
+        },
+        {
+            "areaId": "10270",
+            "areaName": "음성읍"
+        },
+        {
+            "areaId": "10221",
+            "areaName": "연무읍"
+        },
+        {
+            "areaId": "9836",
+            "areaName": "순창공용버스정류장"
+        },
+        {
+            "areaId": "9412",
+            "areaName": "거진종합터미널"
+        },
+        {
+            "areaId": "9649",
+            "areaName": "봉화읍"
+        },
+        {
+            "areaId": "9654",
+            "areaName": "영양군보건소"
+        },
+        {
+            "areaId": "9782",
+            "areaName": "광양읍"
+        },
+        {
+            "areaId": "9986",
+            "areaName": "가평터미널"
+        },
+        {
+            "areaId": "9665",
+            "areaName": "선산읍"
+        },
+        {
+            "areaId": "9578",
+            "areaName": "산청읍"
+        },
+        {
+            "areaId": "10357",
+            "areaName": "용산동"
+        },
+        {
+            "areaId": "10339",
+            "areaName": "영산포  상권"
+        },
+        {
+            "areaId": "10337",
+            "areaName": "담양 메타프로방스 상권"
+        },
+        {
+            "areaId": "9684",
+            "areaName": "죽변면"
+        },
+        {
+            "areaId": "9777",
+            "areaName": "웅천동"
+        },
+        {
+            "areaId": "9837",
+            "areaName": "순창읍"
+        },
+        {
+            "areaId": "9428",
+            "areaName": "진부공용버스정류장"
+        },
+        {
+            "areaId": "9781",
+            "areaName": "곡성군청"
+        },
+        {
+            "areaId": "9406",
+            "areaName": "화천공용버스터미널"
+        },
+        {
+            "areaId": "9679",
+            "areaName": "성주시외버스터미널"
+        },
+        {
+            "areaId": "9416",
+            "areaName": "양양군청"
+        },
+        {
+            "areaId": "9683",
+            "areaName": "울진군청"
+        },
+        {
+            "areaId": "9766",
+            "areaName": "함평읍"
+        },
+        {
+            "areaId": "10269",
+            "areaName": "무극공용버스터미널"
+        },
+        {
+            "areaId": "10274",
+            "areaName": "옥천읍"
+        },
+        {
+            "areaId": "9656",
+            "areaName": "풍기읍"
+        },
+        {
+            "areaId": "9434",
+            "areaName": "정선아리랑시장"
+        },
+        {
+            "areaId": "10201",
+            "areaName": "예산역"
+        },
+        {
+            "areaId": "9706",
+            "areaName": "안강읍"
+        },
+        {
+            "areaId": "9573",
+            "areaName": "거창군청"
+        },
+        {
+            "areaId": "9936",
+            "areaName": "사강시장"
+        },
+        {
+            "areaId": "10359",
+            "areaName": "송악 부곡공단 상권"
+        },
+        {
+            "areaId": "9796",
+            "areaName": "풍덕동"
+        },
+        {
+            "areaId": "9987",
+            "areaName": "청평시외버스터미널"
+        },
+        {
+            "areaId": "10365",
+            "areaName": "원통시내 상권"
+        },
+        {
+            "areaId": "9833",
+            "areaName": "금동"
+        },
+        {
+            "areaId": "10317",
+            "areaName": "팔공산 동화사"
+        },
+        {
+            "areaId": "9429",
+            "areaName": "평창시외버스터미널"
+        },
+        {
+            "areaId": "10364",
+            "areaName": "간성시장 상권"
+        },
+        {
+            "areaId": "9458",
+            "areaName": "충렬사역"
+        },
+        {
+            "areaId": "9556",
+            "areaName": "영산면"
+        },
+        {
+            "areaId": "9229",
+            "areaName": "시흥4동"
+        },
+        {
+            "areaId": "9675",
+            "areaName": "군위군법원"
+        },
+        {
+            "areaId": "10356",
+            "areaName": "보성읍"
+        },
+        {
+            "areaId": "9546",
+            "areaName": "일산 화정동"
+        },
+        {
+            "areaId": "10302",
+            "areaName": "서부산유통단지 남부"
+        },
+        {
+            "areaId": "9342",
+            "areaName": "노량진1동"
+        },
+        {
+            "areaId": "9681",
+            "areaName": "영덕읍"
+        },
+        {
+            "areaId": "9677",
+            "areaName": "자산동"
+        },
+        {
+            "areaId": "9424",
+            "areaName": "원주소방서"
+        },
+        {
+            "areaId": "9594",
+            "areaName": "덕계동"
+        },
+        {
+            "areaId": "9999",
+            "areaName": "동두천 중앙시장"
+        },
+        {
+            "areaId": "10222",
+            "areaName": "부여시외버스터미널"
+        },
+        {
+            "areaId": "9597",
+            "areaName": "서창동"
+        },
+        {
+            "areaId": "9807",
+            "areaName": "무주읍"
+        },
+        {
+            "areaId": "10330",
+            "areaName": "해미시장"
+        },
+        {
+            "areaId": "9658",
+            "areaName": "예천군청"
+        },
+        {
+            "areaId": "9769",
+            "areaName": "차없는거리"
+        },
+        {
+            "areaId": "10000",
+            "areaName": "지행역"
+        },
+        {
+            "areaId": "10212",
+            "areaName": "쌍용동용암마을"
+        },
+        {
+            "areaId": "10213",
+            "areaName": "쌍용동월봉지구"
+        },
+        {
+            "areaId": "9420",
+            "areaName": "남원주중학교"
+        },
+        {
+            "areaId": "9682",
+            "areaName": "영해면"
+        },
+        {
+            "areaId": "10205",
+            "areaName": "불당동"
+        },
+        {
+            "areaId": "9580",
+            "areaName": "가호동"
+        }
+    ]
+}
